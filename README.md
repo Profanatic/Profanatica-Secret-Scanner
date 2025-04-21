@@ -28,12 +28,10 @@ Configurable timeout and automatic retry
 
 Usage:
 node scanner.js https://example.com
+
 Ideal for:
-
 Pentesters
-
 Bug bounty hunters
-
 DevSecOps teams
 
 Developers checking for accidental leaks
@@ -109,6 +107,7 @@ Note:
 For large-scale scans, consider increasing Node.js memory limits:
 
 node --max-old-space-size=4096 scanner.js https://example.com
+
 Use responsibly and comply with all applicable laws.
 
 🚀 Happy hunting!
