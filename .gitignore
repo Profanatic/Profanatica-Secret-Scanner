@@ -1,0 +1,15 @@
+
+node_modules/
+
+
+.env
+
+
+profanatica_results/
+
+
+*.key
+*.pem
+
+
+*.log
