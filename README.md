@@ -29,6 +29,7 @@ Configurable timeout and automatic retry
 🚀 Usage
 
 node scanner.js https://example.com
+
 👥 Ideal for:
 
 Pentesters
