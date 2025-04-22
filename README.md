@@ -1,5 +1,7 @@
 🔐 Profanatica-Secret-Scanner
+
 An advanced scanner for exposed secrets in web pages, APIs, and source code.
+
 "Finding secrets before hackers do."
 
 🔍 Key Features
@@ -113,6 +115,7 @@ For large-scale scans, increase the Node.js memory limit:
 
 
 node --max-old-space-size=4096 scanner.js https://example.com
+
 🎯 Reminder
 Use this tool responsibly and always comply with applicable laws.
 Unauthorized scanning is strictly prohibited.
