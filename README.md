@@ -30,6 +30,7 @@ Configurable timeout and automatic retry
 
 node scanner.js https://example.com
 👥 Ideal for:
+
 Pentesters
 
 Bug bounty hunters
